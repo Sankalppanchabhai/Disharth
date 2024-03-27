@@ -1,0 +1,173 @@
+
+body{
+    background-color: white;
+}
+.main{
+    display: flex;
+    
+}
+.main_font{
+    position: absolute;
+    top:38.3px;
+    
+}
+.navbar{
+    /* display:flex; */
+    /* align-items: center; */
+    /* height:100px;
+    margin: 0px; */
+    /* justify-content: space-evenly; */
+    margin-top: 25px;
+    margin-left: 150px;
+}
+.navbar2{
+    position: absolute;
+    top:50px
+}
+.navbar3{
+    position: absolute;
+    top:75px
+}
+.deco1{
+    position: absolute;
+    text-decoration:underline dashed 1px;
+    left:288px;
+}
+.deco2{
+    position: absolute;
+    text-decoration:underline dashed 1px;
+    left:823px;
+}
+.navbar_image{
+    height:90px;
+    width:300px;
+    background-image: url(cad_image.jpg);
+    background-size: cover;
+    margin-top: 25px;
+    margin-left: 700px;
+}
+.heading{
+    display: flex;
+    align-items: center;
+    margin-left:450px;
+}
+h4{
+    /* margin-left: 450px; */
+}
+.data1{
+    display: flex;
+    justify-content: space-evenly;
+    /* border: 2px dotted; */
+    /* align-items: center; */
+    /* position: absolute; */
+    /* left:289px */
+    /* left:180px; */
+
+}
+
+.data2{
+    display: flex;
+    /* justify-content: space-evenly; */
+    /* align-items: center; */
+    /* border: 2px dotted; */
+    margin-left: opx;
+    position: absolute;
+    top: 242px;;
+}
+.name{
+    margin-left: 280px;
+}
+.name2{
+    margin-left: 495px;
+}
+.data3{
+    display: flex;
+    /* justify-content: space-evenly; */
+    /* border: 2px dotted; */
+    align-items: center;
+}
+.head2{
+    margin-left: 280px;
+    /* border-bottom:  dashed 1px; */
+    text-decoration:underline dashed 1px;
+    position: absolute;
+    top: 275px;
+}
+.head3{
+    margin-left: 816px;
+    /* border-bottom: dashed 1px; */
+    text-decoration:underline dashed 1px;
+    position: absolute;
+    top: 277px;
+}
+.data4{
+    display: flex;
+    /* justify-content: space-evenly; */
+    position: absolute;
+    top: 298px;
+    
+}
+.cource{
+    margin-left:280px ;
+}
+.cource2{
+    margin-left: 450px;
+}
+.data5{
+    display: flex;
+    /* justify-content: space-evenly; */
+    position: absolute;
+    top:335px
+}
+.head4{
+    margin-left:280px ;
+    text-decoration:underline dashed 1px;
+}
+.head5{
+    margin-left: 320px;
+    text-decoration:underline dashed 1px;
+}
+.sara1{
+    margin-left:280px ;
+}
+.sara2{
+    margin-left: 425px;
+}
+.data6{
+    display: flex;
+    /* justify-content: space-evenly; */
+    position: absolute;
+    top: 358px;
+}
+.sara{
+    margin-left:00px
+}
+.heading1{
+    margin-left: 450px;
+    position: absolute;
+    top: 180px;
+}
+.headtwo{
+    margin:0px;
+    float:left;
+}
+.headthree{
+    float:left;
+    clear:left;
+}
+.headfour{
+    /* align-items: center; */
+    float:left;
+    clear:left;
+}
+.image{
+    /* display: flex;
+    align-items: center; */
+    margin-left: 250px;
+    position: absolute;
+    top:420px;
+    background-image: url(cad_image.jpg);
+    height:200px;
+    width: 550px;
+
+}
